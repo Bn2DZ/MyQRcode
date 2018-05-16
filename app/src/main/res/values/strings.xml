@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyQRcode</string>
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">L\'accès à la caméra est nécessaire pour la détection</string>
+    <string name="no_camera_permission">Cette application ne peut pas s\'exécuter car elle n\'a pas l\'autorisation de la caméra. L'application va maintenant quitter.</string>
+    <string name="low_storage_error">Les dépendances des détecteurs de visages ne peuvent pas être téléchargées en raison du faible stockage de l\'appareil</string>
+    <string name="title_activity_main">Barcode Lecteur</string>
+    <string name="barcode_header">Cliquez sur "Lire le codebar". lire un codebar</string>
+    <string name="read_barcode">Lire Barcode</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Utiliser le Flash</string>
+    <string name="barcode_success">Le QRcode est lu avec succès</string>
+    <string name="barcode_failure">Aucun QRcode capturé</string>
+    <string name="barcode_error">"Erreur lors de la lecture du barcode: %1$s"</string>
+</resources>
