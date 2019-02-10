@@ -1,2 +1,2 @@
 # MyQRcode
-Utilisatio  api  google  vision pour qrcode
+Utilisation api google vision pour lecture  qrcode
